@@ -24,13 +24,6 @@ You can interact with the Weather Application live on the web at https://weather
 
 To use the Weather Application, simply navigate to the provided live demo link and follow the instructions on the web interface. You can input your desired location to retrieve weather information or engage with the chat bot to inquire about the weather forecast.
 
-## Dependencies 📦
-
-This project relies on the following Python libraries:
-- Flask: For building the web application.
-- Requests: For making HTTP requests to weather APIs.
-- Python-Telegram-Bot: For implementing the chat bot feature.
-
 ## Credits 🙌
 
 This project has been developed by Anunay Kumar .
